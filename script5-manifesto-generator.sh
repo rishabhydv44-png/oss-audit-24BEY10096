@@ -17,7 +17,7 @@ Open Source Manifesto — $DATE
 
 I believe in the power of open source. Every day I use $TOOL, which gives me the freedom to inspect, modify, and share. To me, '$FREEDOM' is the core of open source. One day I will build $BUILD and release it under an open license so the whole world can benefit.
 
-— Signed, YOUR_NAME
+— Signed, Rishabh Yadav
 EOF
 
 echo "Manifesto saved to $OUTPUT"
