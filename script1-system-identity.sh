@@ -16,7 +16,7 @@ UPTIME=$(uptime -p)
 CURRENT_TIME=$(date '+%d %B %Y, %H:%M:%S')
 
 echo "================================"
-echo "  Open Source Audit — $Rishabh_yadav"
+echo "  Open Source Audit — $STUDENT_NAME"
 echo "================================"
 echo "Software : $SOFTWARE_CHOICE"
 echo "Distro   : $DISTRO"
